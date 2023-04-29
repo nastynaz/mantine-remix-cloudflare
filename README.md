@@ -1,8 +1,14 @@
-# Welcome to Remix!
+# How to get Mantine to work with Cloudflare Pages/Workers
+Getting Mantine to work seamlessly was tricky and took me a while.
+
+I [wrote a blog
+post](https://medium.com/@denzity/how-to-make-remix-work-with-mantine-cloudflare-pages-workers-907888bc00fcA) to explain how to do it.
+
+## Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
 
-## Development
+### Development
 
 You will be utilizing Wrangler for local development to emulate the Cloudflare runtime. This is already wired up in your package.json as the `dev` script:
 
@@ -13,7 +19,7 @@ npm run dev
 
 Open up [http://127.0.0.1:8788](http://127.0.0.1:8788) and you should be ready to go!
 
-## Deployment
+### Deployment
 
 Cloudflare Pages are currently only deployable through their Git provider integrations.
 
