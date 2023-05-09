@@ -2,7 +2,7 @@
 Getting Mantine to work seamlessly was tricky and took me a while.
 
 I [wrote a blog
-post](https://medium.com/@denzity/how-to-make-remix-work-with-mantine-cloudflare-pages-workers-907888bc00fcA) to explain how to do it.
+post](https://medium.com/@denzity/how-to-make-remix-work-with-mantine-cloudflare-pages-workers-907888bc00fc) to explain how to do it.
 
 ## Welcome to Remix!
 
